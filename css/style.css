@@ -533,6 +533,7 @@ header nav:hover ul {
     margin-right: 10px;
     color: #2c4755;
     transition: var(--main-duration);
+    cursor: pointer;
 }
 
 .contact .info .social i:hover {
